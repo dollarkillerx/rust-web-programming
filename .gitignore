@@ -11,3 +11,4 @@ Cargo.lock
 
 actix-study/target/
 hyper-study/target/
+.idea
